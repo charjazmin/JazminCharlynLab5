@@ -1,0 +1,61 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="img">
+        <item name="android:layout_width">311dp</item>
+        <item name="android:layout_height">311dp</item>
+        <item name="android:padding">4dp</item>
+        <item name="android:background">@color/picbg</item>
+    </style>
+
+    <style name = "Button">
+        <item name="android:fontFamily">casual</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@color/picbg</item>
+
+
+    </style>
+
+
+    <style name="distance">
+        <item name="android:fontFamily">casual</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="location">
+
+        <item name="android:layout_width">307dp</item>
+        <item name="android:layout_height">48dp</item>
+        <item name="android:fontFamily">casual</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <style name="title">
+        <item name="android:fontFamily">cursive</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:textIsSelectable">false</item>
+        <item name="android:textSize">25sp</item>
+    </style>
+
+    <style name="place">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:fontFamily">cursive</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+    <style name="bg">
+        <item name="android:background">@color/mainbg</item>
+    </style>
+
+</resources>

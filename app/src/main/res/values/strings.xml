@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">JazminCharlynLab5</string>
+    <string name="titl">
+        UP Town Center
+    </string>
+    <string name="locatio">
+        Location: 216 Katipunan Ave, Diliman, Quezon City
+    </string>
+    <string name="distanc">
+        Distance from UST: 14.5 km
+    </string>
+    <string name="button2">
+        Map
+    </string>
+    <string name="activity_1">Activity 1</string>
+    <string name="activity_2">Activity 2</string>
+    <string name="goToAct2">Activity 2</string>
+    <string name="backToAct1">Activity 1</string>
+    <string name="titl2">
+        Uptown Mall
+    </string>
+    <string name="locatio2">Location: 9th Ave. corner 36th St., The Fort, Taguig, Metro Manila</string>
+    <string name="distanc2">
+        Distance from UST: 15.5 km
+    </string>
+</resources>
